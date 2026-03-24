@@ -1,0 +1,1 @@
+This project focuses on performing data cleaning, exploration, and analysis on a Zepto product dataset using SQL. The goal is to extract meaningful insights such as pricing trends, discounts, inventory distribution, and category-wise performance.
